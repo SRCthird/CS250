@@ -1,8 +1,5 @@
 # Final Summary
 
-## Essay Title
-Contribution of Scrum-Agile Team Roles to the Success of the Travel Program by Stephen Chryn
-
 ### How do I interpret user needs and implement them into a program? 
 User needs are interpreted by engaging directly with feedback and market trends to inform development. Implementing these into a program involves prioritizing relevant features and needs that align with user expectations, as shown by the strategic decision to focus on Health and Wellness travel locations in one part of the SNHU Travel project.
 
